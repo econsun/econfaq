@@ -1,0 +1,15 @@
+{
+  "accentColor": "#7e0c6e",
+  "enabledCssSnippets": [
+    "callouts proof",
+    "center photo",
+    "spacing",
+    "space",
+    "publish",
+    "obsidian"
+  ],
+  "theme": "system",
+  "baseFontSize": 16,
+  "textFontFamily": "LXGW WenKai GB Screen R",
+  "showViewHeader": true
+}

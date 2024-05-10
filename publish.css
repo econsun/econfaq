@@ -1,0 +1,48 @@
+body {
+  --font-size-normal: 16px;
+  --line-height-normal: 2;
+}
+
+img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.callout[data-callout="question"] {
+  background-color: transparent;
+  color: rgb(126,12,110);
+  border-color: none;
+  --callout-icon: none;
+}
+
+.callout[data-callout="question"] > .callout-title > .callout-title-inner {
+  color: rgb(126,12,110);
+  font-weight: normal; 
+}
+
+.callout[data-callout="question"] > .callout-content {
+  background-color: transparent;
+  color: black; 
+}
+
+.callout[data-callout=inspire] {
+  background-color: transparent;
+  color: black;
+  border-color: none;
+  --callout-icon: sparkles;
+}
+
+.callout[data-callout=inspire] > .callout-title > .callout-title-inner {
+  color: black; 
+}
+
+.callout[data-callout=inspire] > .callout-content {
+  background-color: transparent;
+  color: black; 
+}
+
+
+h1{
+	text-align:center;
+}

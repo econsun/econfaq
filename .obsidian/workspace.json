@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "9ceabb1dc02838f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf6c5b51c42d9471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca536d4b5647cff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a 知识（缩短版）/11 微观 - 均衡理论.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf452a8775aae5be",
+    "type": "split",
+    "children": [
+      {
+        "id": "b654de8f14894bb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7cf774b419e18d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba70aacc91ed8fbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "题库（伸长版）",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcba8c2c33fab9b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "53c07f0521fea46d",
+    "type": "split",
+    "children": [
+      {
+        "id": "187165feea75189f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "796d7e65af912e8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29d5eec1e28672a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "a 知识（缩短版）/11 微观 - 均衡理论.md"
+              }
+            }
+          },
+          {
+            "id": "8fa71ae2535d38ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "a 知识（缩短版）/11 微观 - 均衡理论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "command-palette:打开命令面板": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "ca536d4b5647cff3",
+  "lastOpenFiles": [
+    "a 知识（缩短版）/12 微观 - 消费理论.md",
+    "a 知识（缩短版）/13 微观 - 生产理论.md",
+    "a 知识（缩短版）/14 微观 - 市场理论.md",
+    "a 知识（缩短版）/16 微观 - 要素理论.md",
+    "a 知识（缩短版）/15 微观 - 福利理论.md",
+    "a 知识（缩短版）/17 微观 - 博弈理论.md",
+    "a 知识（缩短版）/18 微观 - 市场失灵.md",
+    "a 知识（缩短版）/21 宏观 - 经济数据.md",
+    "a 知识（缩短版）/22 宏观 - 长期经济.md",
+    "a 知识（缩短版）/23 宏观 - 超长期经济.md",
+    "a 知识（缩短版）/25 宏观 - 开放经济.md",
+    "a 知识（缩短版）/24 宏观 - 短期经济.md",
+    "a 知识（缩短版）/26 宏观 - 经济政策.md",
+    "1 汇总问题（伸长版）.md",
+    "1 汇总问题（缩短版）.md",
+    "a 知识（缩短版）/11 微观 - 均衡理论.md",
+    "0 主页.md",
+    "2 推荐问题.md",
+    "a 知识（伸长版）/12 微观 - 消费理论.md",
+    "a 知识（伸长版）/13 微观 - 生产理论.md",
+    "a 知识（伸长版）/14 微观 - 市场理论.md",
+    "d 材料/db 图库/0014.png",
+    "a 知识（伸长版）/15 微观 - 福利理论.md",
+    "a 知识（伸长版）/16 微观 - 要素理论.md",
+    "a 知识（伸长版）/18 微观 - 市场失灵.md",
+    "a 知识（伸长版）/21 宏观 - 经济数据.md",
+    "a 知识（伸长版）/22 宏观 - 长期经济.md",
+    "d 材料/dc PDF",
+    "d 材料/da 话题",
+    "d 材料/db 图库/0042.png",
+    "d 材料/db 图库/0032.png",
+    "d 材料/db 图库/double holly.png",
+    "d 材料/db 图库/0040.png",
+    "photo 1.png",
+    "Pasted image 20240510151059.png",
+    "b converter.py",
+    "c converter.py",
+    "a 知识（缩短版）",
+    "d 材料/dd 说明",
+    "publish.js",
+    "jj.js",
+    "New 文本文档.txt",
+    "Pasted image 20240501200835.png",
+    "Pasted image 20240501200814.png",
+    "photo 2.png",
+    "~KU.tmp"
+  ]
+}

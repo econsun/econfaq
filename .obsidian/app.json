@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "foldIndent": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 93
+  },
+  "showInlineTitle": true
+}

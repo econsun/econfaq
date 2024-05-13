@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a 知识（缩短版）/11 微观 - 均衡理论.md",
+                "file": "c 题库（伸长版）/Problem 0048.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dc820763df9b0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 汇总问题（伸长版）.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a 知识（缩短版）/11 微观 - 均衡理论.md"
+                "file": "1 汇总问题（伸长版）.md"
               }
             }
           },
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a 知识（缩短版）/11 微观 - 均衡理论.md",
+                "file": "1 汇总问题（伸长版）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,9 +150,28 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "ca536d4b5647cff3",
+  "active": "1dc820763df9b0b7",
   "lastOpenFiles": [
+    "README.md",
+    "1 汇总问题（缩短版）.md",
+    "1 汇总问题（伸长版）.md",
+    "2 推荐问题.md",
+    "3 存档问题.md",
+    "4 答访者问.md",
+    "5 话题.md",
+    "6 树洞.md",
+    "c 题库（缩短版）/Problem 0049.md",
+    "c 题库（缩短版）/Problem 0048.md",
+    "c 题库（伸长版）/Problem 0049.md",
+    "c 题库（伸长版）/Problem 0048.md",
+    "b 月度（缩短版）/5 月问答精选.md",
+    "b 月度（伸长版）/5 月问答精选.md",
+    "a 知识（伸长版）/12 微观 - 消费理论.md",
     "a 知识（缩短版）/12 微观 - 消费理论.md",
+    "d 材料/db 图库/0049.jpg",
+    "d 材料/db 图库/021 decomposition of substitute and income effect.jpg",
+    "0 主页.md",
+    "a 知识（缩短版）/11 微观 - 均衡理论.md",
     "a 知识（缩短版）/13 微观 - 生产理论.md",
     "a 知识（缩短版）/14 微观 - 市场理论.md",
     "a 知识（缩短版）/16 微观 - 要素理论.md",
@@ -147,24 +180,7 @@
     "a 知识（缩短版）/18 微观 - 市场失灵.md",
     "a 知识（缩短版）/21 宏观 - 经济数据.md",
     "a 知识（缩短版）/22 宏观 - 长期经济.md",
-    "a 知识（缩短版）/23 宏观 - 超长期经济.md",
-    "a 知识（缩短版）/25 宏观 - 开放经济.md",
-    "a 知识（缩短版）/24 宏观 - 短期经济.md",
-    "a 知识（缩短版）/26 宏观 - 经济政策.md",
-    "1 汇总问题（伸长版）.md",
-    "1 汇总问题（缩短版）.md",
-    "a 知识（缩短版）/11 微观 - 均衡理论.md",
-    "0 主页.md",
-    "2 推荐问题.md",
-    "a 知识（伸长版）/12 微观 - 消费理论.md",
-    "a 知识（伸长版）/13 微观 - 生产理论.md",
-    "a 知识（伸长版）/14 微观 - 市场理论.md",
     "d 材料/db 图库/0014.png",
-    "a 知识（伸长版）/15 微观 - 福利理论.md",
-    "a 知识（伸长版）/16 微观 - 要素理论.md",
-    "a 知识（伸长版）/18 微观 - 市场失灵.md",
-    "a 知识（伸长版）/21 宏观 - 经济数据.md",
-    "a 知识（伸长版）/22 宏观 - 长期经济.md",
     "d 材料/dc PDF",
     "d 材料/da 话题",
     "d 材料/db 图库/0042.png",
@@ -181,8 +197,6 @@
     "jj.js",
     "New 文本文档.txt",
     "Pasted image 20240501200835.png",
-    "Pasted image 20240501200814.png",
-    "photo 2.png",
     "~KU.tmp"
   ]
 }

@@ -134,5 +134,7 @@
       "key": "N"
     }
   ],
-  "easy-typing-obsidian:easy-typing-insert-codeblock": []
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-paste-without-format": [],
+  "easy-typing-obsidian:easy-typing-format-switch": []
 }

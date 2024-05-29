@@ -4,7 +4,7 @@
   "IntrinsicSymbolPairs": false,
   "BaseObEditEnhance": false,
   "FW2HWEnhance": false,
-  "BetterCodeEdit": true,
+  "BetterCodeEdit": false,
   "AutoFormat": false,
   "ExcludeFiles": "",
   "ChineseEnglishSpace": false,
@@ -72,12 +72,28 @@
       "\\color{#D7422A}|"
     ],
     [
-      "红句号|",
-      "<font color = #D7422A>。</font>|"
-    ],
-    [
       "ls|",
       "\\color{#003C88}|"
+    ],
+    [
+      "颜色添加|",
+      "<font color = #8CC152>添加</font>|"
+    ],
+    [
+      "颜色修改|",
+      "<font color = #4A89DC>修改</font>|"
+    ],
+    [
+      "颜色删除|",
+      "<font color = #E9573F>删除</font>|"
+    ],
+    [
+      "颜色存档|",
+      "<font color = #FC6E51>存档</font>|"
+    ],
+    [
+      "颜色管理|",
+      "<font color = #967ADC>管理</font>|"
     ]
   ],
   "userSelRuleSettingsOpen": true,

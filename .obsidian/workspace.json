@@ -13,28 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c 题库（伸长版）/Problem 0048.md",
+                "file": "0 主页.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "1dc820763df9b0b7",
+            "id": "7360b599125ecdec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1 汇总问题（伸长版）.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd5791a420b19442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 操作流水.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3db8def3d5062748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 汇总问题（缩短版）.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "题库（伸长版）",
+                "query": "Problem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,11 +106,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53c07f0521fea46d",
@@ -111,24 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 汇总问题（伸长版）.md"
-              }
-            }
-          },
-          {
-            "id": "8fa71ae2535d38ab",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1 汇总问题（伸长版）.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "4 操作流水.md"
               }
             }
           }
@@ -150,53 +161,53 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1dc820763df9b0b7",
+  "active": "cd5791a420b19442",
   "lastOpenFiles": [
-    "README.md",
     "1 汇总问题（缩短版）.md",
-    "1 汇总问题（伸长版）.md",
     "2 推荐问题.md",
-    "3 存档问题.md",
-    "4 答访者问.md",
-    "5 话题.md",
-    "6 树洞.md",
-    "c 题库（缩短版）/Problem 0049.md",
-    "c 题库（缩短版）/Problem 0048.md",
-    "c 题库（伸长版）/Problem 0049.md",
-    "c 题库（伸长版）/Problem 0048.md",
-    "b 月度（缩短版）/5 月问答精选.md",
-    "b 月度（伸长版）/5 月问答精选.md",
-    "a 知识（伸长版）/12 微观 - 消费理论.md",
-    "a 知识（缩短版）/12 微观 - 消费理论.md",
+    "c 题库（伸长版）/Problem 0033.md",
+    "4 操作流水.md",
+    "1 汇总问题（伸长版）.md",
+    "c 题库（缩短版）/Problem 0031.md",
+    "c 题库（缩短版）/Problem 0032.md",
+    "c 题库（缩短版）/Problem 0033.md",
+    "c 题库（缩短版）/Problem 0030.md",
+    "c 题库（缩短版）/Problem 0029.md",
+    "c 题库（缩短版）/Problem 0028.md",
+    "c 题库（缩短版）/Problem 0027.md",
+    "c 题库（缩短版）/Problem 0025.md",
+    "c 题库（缩短版）/Problem 0026.md",
+    "c 题库（缩短版）/Problem 0024.md",
+    "c 题库（缩短版）/Problem 0023.md",
+    "c 题库（缩短版）/Problem 0022.md",
+    "c 题库（缩短版）/Problem 0021.md",
+    "c 题库（缩短版）/Problem 0020.md",
+    "c 题库（缩短版）/Problem 0019.md",
+    "c 题库（缩短版）/Problem 0018.md",
+    "c 题库（缩短版）/Problem 0017.md",
+    "c 题库（缩短版）/Problem 0015.md",
+    "c 题库（缩短版）/Problem 0016.md",
+    "c 题库（缩短版）/Problem 0014.md",
+    "c 题库（缩短版）/Problem 0013.md",
+    "run.bat",
+    "run.txt",
+    "New 文本文档.txt",
+    "d 材料/db 图库/0057.png",
+    "d 材料/db 图库/00572.png",
+    "d 材料/db 图库/00571.png",
+    "Pasted image 20240530005123.png",
     "d 材料/db 图库/0049.jpg",
     "d 材料/db 图库/021 decomposition of substitute and income effect.jpg",
-    "0 主页.md",
-    "a 知识（缩短版）/11 微观 - 均衡理论.md",
-    "a 知识（缩短版）/13 微观 - 生产理论.md",
-    "a 知识（缩短版）/14 微观 - 市场理论.md",
-    "a 知识（缩短版）/16 微观 - 要素理论.md",
-    "a 知识（缩短版）/15 微观 - 福利理论.md",
-    "a 知识（缩短版）/17 微观 - 博弈理论.md",
-    "a 知识（缩短版）/18 微观 - 市场失灵.md",
-    "a 知识（缩短版）/21 宏观 - 经济数据.md",
-    "a 知识（缩短版）/22 宏观 - 长期经济.md",
     "d 材料/db 图库/0014.png",
     "d 材料/dc PDF",
     "d 材料/da 话题",
     "d 材料/db 图库/0042.png",
     "d 材料/db 图库/0032.png",
     "d 材料/db 图库/double holly.png",
-    "d 材料/db 图库/0040.png",
-    "photo 1.png",
-    "Pasted image 20240510151059.png",
     "b converter.py",
     "c converter.py",
     "a 知识（缩短版）",
     "d 材料/dd 说明",
-    "publish.js",
-    "jj.js",
-    "New 文本文档.txt",
-    "Pasted image 20240501200835.png",
-    "~KU.tmp"
+    "publish.js"
   ]
 }

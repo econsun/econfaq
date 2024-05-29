@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 操作流水.md"
+                "file": "1 汇总问题（伸长版）.md"
               }
             }
           }
@@ -161,12 +161,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "cd5791a420b19442",
+  "active": "7360b599125ecdec",
   "lastOpenFiles": [
+    "d 材料/dc PDF/240530_60_汇总问答.pdf",
+    "4 操作流水.md",
     "1 汇总问题（缩短版）.md",
     "2 推荐问题.md",
     "c 题库（伸长版）/Problem 0033.md",
-    "4 操作流水.md",
     "1 汇总问题（伸长版）.md",
     "c 题库（缩短版）/Problem 0031.md",
     "c 题库（缩短版）/Problem 0032.md",
@@ -188,7 +189,6 @@
     "c 题库（缩短版）/Problem 0015.md",
     "c 题库（缩短版）/Problem 0016.md",
     "c 题库（缩短版）/Problem 0014.md",
-    "c 题库（缩短版）/Problem 0013.md",
     "run.bat",
     "run.txt",
     "New 文本文档.txt",

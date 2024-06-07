@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 汇总问题（伸长版）.md",
+                "file": "c 题库（缩短版）/Problem 0003.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "3db8def3d5062748",
+            "id": "13378526a956ec0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,13 +106,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53c07f0521fea46d",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 汇总问题（伸长版）.md"
+                "file": "c 题库（缩短版）/Problem 0003.md"
               }
             }
           }
@@ -163,32 +161,36 @@
   },
   "active": "7360b599125ecdec",
   "lastOpenFiles": [
-    "d 材料/dc PDF/240530_60_汇总问答.pdf",
     "4 操作流水.md",
-    "1 汇总问题（缩短版）.md",
-    "2 推荐问题.md",
-    "c 题库（伸长版）/Problem 0033.md",
-    "1 汇总问题（伸长版）.md",
-    "c 题库（缩短版）/Problem 0031.md",
-    "c 题库（缩短版）/Problem 0032.md",
-    "c 题库（缩短版）/Problem 0033.md",
-    "c 题库（缩短版）/Problem 0030.md",
-    "c 题库（缩短版）/Problem 0029.md",
-    "c 题库（缩短版）/Problem 0028.md",
-    "c 题库（缩短版）/Problem 0027.md",
-    "c 题库（缩短版）/Problem 0025.md",
-    "c 题库（缩短版）/Problem 0026.md",
-    "c 题库（缩短版）/Problem 0024.md",
-    "c 题库（缩短版）/Problem 0023.md",
-    "c 题库（缩短版）/Problem 0022.md",
-    "c 题库（缩短版）/Problem 0021.md",
-    "c 题库（缩短版）/Problem 0020.md",
-    "c 题库（缩短版）/Problem 0019.md",
-    "c 题库（缩短版）/Problem 0018.md",
-    "c 题库（缩短版）/Problem 0017.md",
-    "c 题库（缩短版）/Problem 0015.md",
-    "c 题库（缩短版）/Problem 0016.md",
-    "c 题库（缩短版）/Problem 0014.md",
+    "c 题库（缩短版）/Problem 0063.md",
+    "c 题库（缩短版）/Problem 0062.md",
+    "c 题库（缩短版）/Problem 0061.md",
+    "c 题库（缩短版）/Problem 0060.md",
+    "c 题库（缩短版）/Problem 0059.md",
+    "c 题库（缩短版）/Problem 0058.md",
+    "c 题库（缩短版）/Problem 0057.md",
+    "c 题库（缩短版）/Problem 0056.md",
+    "c 题库（缩短版）/Problem 0055.md",
+    "c 题库（缩短版）/Problem 0054.md",
+    "c 题库（缩短版）/Problem 0053.md",
+    "c 题库（缩短版）/Problem 0052.md",
+    "c 题库（缩短版）/Problem 0051.md",
+    "c 题库（缩短版）/Problem 0050.md",
+    "c 题库（缩短版）/Problem 0049.md",
+    "c 题库（缩短版）/Problem 0048.md",
+    "c 题库（缩短版）/Problem 0047.md",
+    "c 题库（缩短版）/Problem 0046.md",
+    "c 题库（缩短版）/Problem 0045.md",
+    "c 题库（缩短版）/Problem 0044.md",
+    "c 题库（缩短版）/Problem 0043.md",
+    "c 题库（缩短版）/Problem 0042.md",
+    "c 题库（缩短版）/Problem 0041.md",
+    "c 题库（缩短版）/Problem 0040.md",
+    "c 题库（缩短版）/Problem 0039.md",
+    "d 材料/db 图库/0063.png",
+    "0062.png",
+    "d 材料/db 图库/0061.png",
+    "d 材料/dc PDF/240530_60_汇总问答.pdf",
     "run.bat",
     "run.txt",
     "New 文本文档.txt",
@@ -201,13 +203,9 @@
     "d 材料/db 图库/0014.png",
     "d 材料/dc PDF",
     "d 材料/da 话题",
-    "d 材料/db 图库/0042.png",
-    "d 材料/db 图库/0032.png",
-    "d 材料/db 图库/double holly.png",
     "b converter.py",
     "c converter.py",
     "a 知识（缩短版）",
-    "d 材料/dd 说明",
-    "publish.js"
+    "d 材料/dd 说明"
   ]
 }

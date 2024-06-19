@@ -36,12 +36,7 @@
       "right": " "
     }
   ],
-  "userDeleteRulesStrList": [
-    [
-      "demo|",
-      "|"
-    ]
-  ],
+  "userDeleteRulesStrList": [],
   "userConvertRulesStrList": [
     [
       "三星|",
@@ -94,6 +89,10 @@
     [
       "颜色管理|",
       "<font color = #967ADC>管理</font>|"
+    ],
+    [
+      "zm|",
+      "&|"
     ]
   ],
   "userSelRuleSettingsOpen": true,
